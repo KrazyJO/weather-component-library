@@ -13,3 +13,6 @@ In this repository is a file called `.nvmrc`. This file contains the node versio
 You can use the command `nvm use` in the root directory of this project to switch to the used version.
 To archive this, `nvm` needs to be installed. The installation instructions for Mac are [here](https://github.com/nvm-sh/nvm). 
 
+## storybook
+This project uses [Storybook](https://github.com/storybookjs/storybook) to generate a component library for easier development.
+Just run `npm rum storybook`. The browser open automatic. 
